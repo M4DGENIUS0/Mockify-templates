@@ -1,0 +1,155 @@
+{
+  "index_version": "1.1",
+  "templates": [
+    {
+      "name": "2022 MacBook Air 13 Space Gray (White Background)",
+      "slug": "mba2022-13-gray-white",
+      "category": "Laptop",
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/m2-macbook-air-mockup-2/",
+      "base_file": "media/mba2022-13/gray-white.png",
+      "mask_file": "media/mba2022-13/mask.png",
+      "screen_points": [
+        [896, 224],
+        [896, 654],
+        [1471, 985],
+        [1471, 555]
+      ],
+      "brightness": 0.95,
+      "contrast": 0.94
+    },
+    {
+      "name": "Promo Style 1",
+      "slug": "mba2025-promo-style-1",
+      "category": "Promo",
+      "author": "Ahmad Nasir",
+      "base_file": "media/promo/style1.jpg",
+      "mask_file": "media/promo/mask-style-1.png",
+      "screen_points": [
+        [0.8645,4.039],
+        [6.067,4.039],
+        [6.067,12.361],
+        [0.875,12.361]
+      ],
+      "brightness": 0.95,
+      "contrast": 0.94
+    },
+    {
+      "name": "2022 MacBook Air 13 Space Gray (Wood Wall Background)",
+      "slug": "mba2022-13-gray-wood",
+      "category": "Laptop",
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/m2-macbook-air-mockup-4/",
+      "base_file": "media/mba2022-13/gray-wood.png",
+      "mask_file": "media/mba2022-13/mask.png",
+      "screen_points": [
+        [605.65, 375.07],
+        [614.57, 826.0],
+        [1287.98, 779.43],
+        [1294.26, 342.06]
+      ],
+      "brightness": 0.95,
+      "contrast": 0.94
+    },
+    {
+      "name": "2017 Macbook Pro 13 Matte Black (Black Background)",
+      "slug": "mbp2017-13-black-black",
+      "category": "Laptop",
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/isometric-matte-black-2017-macbook-pro-mockup/",
+      "base_file": "media/mbp2017-13/black-black.png",
+      "mask_aspect_ratio": 1.6,
+      "screen_points": [
+        [371, 522],
+        [515, 1075],
+        [1184, 741],
+        [1040, 189]
+      ],
+      "brightness": 0.96,
+      "contrast": 0.91
+    },
+    {
+      "name": "Surface Laptop 3 13 Silver (Light Blue Background)",
+      "slug": "sl3-15-silver-blue",
+      "category": "Laptop",
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/isometric-surface-laptop-3-mockup/",
+      "base_file": "media/sl3-15/silver-blue.png",
+      "mask_aspect_ratio": 1.5,
+      "screen_points": [
+        [890, 276],
+        [890, 683],
+        [1417, 986],
+        [1417, 579]
+      ],
+      "brightness": 0.96,
+      "contrast": 0.91
+    },
+    {
+      "name": "iPhone 14 Pro Max Silver (Transparent Background)",
+      "slug": "iphone14-promax-silver-transparent",
+      "category": "Phone",
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/iphone-14-pro-max-mockup-2/",
+      "base_file": "media/iphone14-promax/silver-transparent.png",
+      "mask_file": "media/iphone14-promax/mask.png",
+      "screen_points": [
+        [1204, 431.25],
+        [456, 862],
+        [797, 1059.5],
+        [1544.5, 628]
+      ],
+      "brightness": 0.97,
+      "contrast": 0.93
+    },
+    {
+      "name": "iPhone X Clay (White Background)",
+      "slug": "iphonex-clay-white",
+      "category": "Phone",
+      "author": "Anthony Boyd",
+      "backlink": "https://www.anthonyboyd.graphics/mockups/minimal-clay-iphone-x-presentation-mockup-set/",
+      "base_file": "media/iphonex/clay-white.png",
+      "mask_file": "media/iphonex/mask.png",
+      "screen_points": [
+        [1166.3, 526.6],
+        [594.5, 856.9],
+        [858.3, 1009.0],
+        [1429.6, 678.7]
+      ],
+      "brightness": 0.97,
+      "contrast": 0.93
+    },
+    {
+      "name": "A4 Paper (Gray Background)",
+      "slug": "a4-gray",
+      "category": "Paper",
+      "author": "Brando Makes Branding",
+      "backlink": "https://unsplash.com/photos/fsejsqFKRTs",
+      "base_file": "media/a4/gray.jpg",
+      "mask_aspect_ratio": 0.7071,
+      "screen_points": [
+        [273.12, 716.99],
+        [1249.29, 1031.27],
+        [1673.42, 572.61],
+        [725.96, 298.39]
+      ],
+      "black_white_point": ["292826", "D9DCDD"]
+    },
+    {
+      "name": "Business Card Stack (White Background)",
+      "slug": "businesscard-white",
+      "category": "Paper",
+      "author": "Mediamodifier",
+      "backlink": "https://unsplash.com/photos/ZZah4APmFjU",
+      "base_file": "media/businesscard/white.jpg",
+      "mask_aspect_ratio": 0.7071,
+      "screen_points": [
+        [554.89, 886.19],
+        [228.59, 1172.14],
+        [744.53, 1639.71],
+        [1084.72, 1284.15]
+      ],
+      "black_white_point": ["2D2D30", "DBE9ED"]
+    }
+  ]
+}
