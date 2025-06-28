@@ -35,6 +35,36 @@
       "contrast": 0.94
     },
     {
+      "name": "1.png",
+      "slug": "1-png",
+      "category": "Device",
+      "author": "Ahmad Nasir",
+      "base_file": "media/iphone-13/1.png",
+      "mask_file": "media/iphone-13/mask.png",
+      "screen_points": [
+        [
+          978,
+          314
+        ],
+        [
+          1435,
+          454
+        ],
+        [
+          882,
+          1644
+        ],
+        [
+          422,
+          1497
+        ]
+      ],
+      "width": 2000,
+      "height": 2000,
+      "brightness": 0.95,
+      "contrast": 0.94
+    },
+    {
       "name": "2022 MacBook Air 13 Space Gray (Wood Wall Background)",
       "slug": "mba2022-13-gray-wood",
       "category": "Laptop",
