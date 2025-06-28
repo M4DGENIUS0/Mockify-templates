@@ -42,22 +42,10 @@
       "base_file": "media/iphone-13/1.png",
       "mask_file": "media/iphone-13/mask.png",
       "screen_points": [
-        [
-          978,
-          314
-        ],
-        [
-          1435,
-          454
-        ],
-        [
-          882,
-          1644
-        ],
-        [
-          422,
-          1497
-        ]
+        [950,310],
+        [420,1503],
+        [875,1648],
+        [1435,448]
       ],
       "width": 2000,
       "height": 2000,
@@ -124,10 +112,10 @@
       "base_file": "media/iphone14-promax/silver-transparent.png",
       "mask_file": "media/iphone14-promax/mask.png",
       "screen_points": [
-        [1204, 431.25],
-        [456, 862],
+        [1204, 431.25], 
+        [456, 862], 
         [797, 1059.5],
-        [1544.5, 628]
+        [1544.5, 628] 
       ],
       "brightness": 0.97,
       "contrast": 0.93
