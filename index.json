@@ -40,7 +40,7 @@
       "category": "Device",
       "author": "Ahmad Nasir",
       "base_file": "media/iphone-13/1.png",
-      "mask_file": "media/iphone-13/iphone-13-mask.png",
+      "mask_file": "media/iphone-13/mask.png",
       "screen_points": [
         [950,310],
         [420,1503],
