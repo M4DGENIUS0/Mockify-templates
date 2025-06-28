@@ -42,10 +42,10 @@
       "base_file": "media/iphone-13/1.png",
       "mask_file": "media/iphone-13/mask.png",
       "screen_points": [
-        [950,310],
-        [420,1503],
-        [875,1648],
-        [1435,448]
+        [270, 160],   
+    [170, 600],   
+    [570, 720],   
+    [670, 280]
       ],
       "width": 2000,
       "height": 2000,
