@@ -51,6 +51,22 @@
       "contrast": 0.94
     },
     {
+      "name": "iPhone 13 Pro Max",
+      "slug": "iPhone_13_pro_max",
+      "category": "Device",
+      "author": "Ahmad Nasir",
+      "base_file": "media/iphone-13/iPhone_13_pro_max.png",
+      "mask_file": "media/iphone-13/mask.png",
+      "screen_points": [
+        [735,760],
+        [735, 11940],
+        [5950,11940],
+        [5950,760] 
+      ],
+      "brightness": 0.95,
+      "contrast": 0.94
+    },
+    {
       "name": "2022 MacBook Air 13 Space Gray (Wood Wall Background)",
       "slug": "mba2022-13-gray-wood",
       "category": "Laptop",
