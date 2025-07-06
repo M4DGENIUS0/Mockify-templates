@@ -2,6 +2,21 @@
   "index_version": "1.1",
   "templates": [
     {
+  "name": "iPhone 15 Pro Max",
+  "slug": "iphone-15-pro-max",
+  "category": "iPhone 15 Pro Max",
+  "author": "Ahmad",
+  "base_file": "media/iphone-15-promax/303.png",
+  "mask_file": "media/iphone-15-promax/mask.png",
+  "screen_points": [
+    [2380, 507],
+    [2401, 481],
+    [3290, 2955],
+    [3308, 171]
+  ],
+  "brightness": 0.95,
+  "contrast": 0.94
+},{
       "name": "2022 MacBook Air 13 Space Gray (White Background)",
       "slug": "mba2022-13-gray-white",
       "category": "Laptop",
