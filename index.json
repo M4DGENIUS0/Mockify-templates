@@ -9,10 +9,10 @@
   "base_file": "media/iphone-15-promax/303.png",
   "mask_file": "media/iphone-15-promax/mask.png",
   "screen_points": [
-    [2380, 507],
-    [2401, 481],
-    [3290, 2955],
-    [3308, 171]
+     [1204, 431],    // top-left
+    [456, 862],     // bottom-left
+    [797, 1059],    // bottom-right
+    [1544, 628]   
   ],
   "brightness": 0.95,
   "contrast": 0.94
